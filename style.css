@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Avenir;
+}
+
+body{
+    background:#0C0CC4F2;
+}
+h1{
+    color: #FFFFFF;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+text-align: center;
+margin: 20px;
+}
+
+form{
+    margin: auto;
+    width: 50%;
+    padding: 50px;
+}
+
+
+
+#btn5{
+    
+background:#FFFFFF;
+border: 1px solid #4949FF;
+border-radius: 5px;
+font-weight: 800;
+font-size: 14px;
+text-transform: uppercase;
+cursor: pointer;
+width: 150px;
+height: 39px;
+margin: 20px 180px;
+border-radius: 5px;
+}
+
+
+.inp1{
+width: 527px;
+height: 40px;
+background: rgba(12, 12, 196, 0.8);
+border: 1px solid #4949FF;
+box-sizing: border-box;
+border-radius: 5px;
+margin-top:5px;
+-webkit-appearance: none;
+-moz-appearance: textfield;
+padding: 10px;
+color: #FFFFFF;
+font-size: 14px;
+
+}
+label{
+ font-size: 14px;
+ margin-left: 5px;
+
+}
+
+#block1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 55%;
+    margin: auto;
+    margin-top: 30px;
+   color: rgba(255, 255, 255, 0.9);
+   font-style: normal;
+font-weight: 800;
+font-size: 15px;
+opacity: 0.45;
+
+}
+
+#block1 p:hover{
+    border-bottom: 5px solid #4949FF;
+}
+hr{
+    width: 50%;
+    margin: auto;
+    border: dashed 2px;
+}
+
+
+span{
+    margin-left: 120px;
+}
+#sp3{
+    margin-left: 170px;
+}
+
+.block2{
+    margin-top:15px;
+    color: #FFFFFF;
+    opacity: 0.5;
+    padding: 10px;
+}
+#img1{
+    position: absolute;
+    top: 66.5px;
+    left: 310px;
+}
+#img2{
+    position: absolute;
+    top:61px;
+    right:308px
+}
+
+.sp2{
+    padding: 10px;
+    text-transform:uppercase;
+    margin-left: 10px;
+    opacity: 1;
+    border-radius: 5px;
+    background: #0E0E9F;
+border: 1px solid #4949FF;
+}
+#img4{
+    position: absolute;
+left: 92.92%;
+right: 4.44%;
+top: 27.6%;
+bottom: 67.52%;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+#img5{
+    position: absolute;
+left: 9.07%;
+right: 78%;
+top: 56.48%;
+bottom: 32.56%;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
